@@ -1,0 +1,3 @@
+/home/qlh/test/log4cppTest/RollingFile_FileAppender/build/CMakeFiles/edit_cache.dir
+/home/qlh/test/log4cppTest/RollingFile_FileAppender/build/CMakeFiles/rebuild_cache.dir
+/home/qlh/test/log4cppTest/RollingFile_FileAppender/build/CMakeFiles/Log4cppTest.dir

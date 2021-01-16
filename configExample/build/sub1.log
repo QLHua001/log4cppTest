@@ -1,0 +1,7 @@
+2021-01-14 21:32:50,752[DEBUG]-sub1 debug message
+2021-01-14 21:32:50,752[ERROR]-sub1 error message
+2021-01-14 21:32:50,752[FATAL]-sub1_son fatal message
+2021-01-14 21:32:50,752[WARN]-sub1_son warn message
+2021-01-14 21:32:50,752[ERROR]-sub1_daughter error message
+2021-01-14 21:32:50,752[CRIT]-sub1_daughter crit message
+2021-01-14 21:32:50,752[WARN]-This will be a logged warnning

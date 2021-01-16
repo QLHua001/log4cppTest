@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread   CMakeFiles/Log4cppTest.dir/MultiCategory.cpp.o  -o Log4cppTest  -L/home/qlh/myPath/lib -Wl,-rpath,/home/qlh/myPath/lib -llog4cpp 
